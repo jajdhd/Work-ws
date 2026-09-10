@@ -3,7 +3,7 @@
 // Deploy this for free at *.workers.dev, or attach it to your own domain
 // via a Custom Domain / Route in the Cloudflare dashboard.
 
-const BACKEND_HOST = "https://ember-aurora-1213.de.uday.me/"; // <-- replace with your Railway domain
+const BACKEND_HOST = "io.manob.ir"; // <-- replace with your Railway domain
 
 export default {
   async fetch(request) {
